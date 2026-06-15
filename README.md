@@ -10,8 +10,7 @@ mit zwei Modellen extrahiert und gegenüberstellt:
    **OCR-Text**, aus dem die Felder anschließend heuristisch geparst werden.
 
 > **Hinweis zur Modellwahl:** Die Aufgabenstellung nennt *Document Intelligence
-> + Llama 3.2 Vision*. Da Llama 3.2 Vision im Foundry-Katalog veraltet bzw. zu
-> teuer war, wird stattdessen **Mistral Document AI** als günstiger
+> + **Mistral Document AI** wird als günstiger
 > Bild-zu-Text-Ersatz eingesetzt. Die App vergleicht damit weiterhin zwei
 > Modelle unter identischen Bedingungen – die Grundlage für das Testprotokoll.
 
