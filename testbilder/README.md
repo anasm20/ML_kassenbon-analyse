@@ -12,5 +12,4 @@ Bitte je Szenario mindestens ein Bild ablegen und nach Schema benennen:
 | `05_handschrift.jpg`          | Handschriftliche Ergaenzungen / Notizen    |
 | `06_verdeckt.jpg`             | Teilweise verdeckt oder zerrissen          |
 
-Diese Bilder werden in der App analysiert und die Ergebnisse im
-Testprotokoll (`TESTPROTOKOLL.md` -> als PDF exportieren) dokumentiert.
+
