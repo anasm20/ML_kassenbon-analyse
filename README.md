@@ -14,6 +14,8 @@ mit zwei Modellen extrahiert und gegenüberstellt:
 > Bild-zu-Text-Ersatz eingesetzt. Die App vergleicht damit weiterhin zwei
 > Modelle unter identischen Bedingungen – die Grundlage für das Testprotokoll.
 
+<img width="1201" height="745" alt="2026-06-28 14_22_11-Settings" src="https://github.com/user-attachments/assets/de8e71ad-d376-4fc3-827c-c69be326f504" />
+
 ---
 
 ## 1. Voraussetzungen
